@@ -9,4 +9,3 @@ Welcome to **Humidyne Labs**—an open-source engineering initiative dedicated t
 
 **Lead Architect:** [@humiditron](https://github.com/humiditron)  
 **Main Infrastructure:** [humid1.com](https://humid1.com)
-# HUMIDYNE LABS
